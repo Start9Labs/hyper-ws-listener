@@ -1,6 +1,6 @@
 [package]
 name = "hyper-ws-listener"
-version = "0.2.0"
+version = "0.3.0"
 authors = [
     "Fisher Darling <fdarlingco@gmail.com>",
     "Aiden McClelland <me@drbonez.dev>",
